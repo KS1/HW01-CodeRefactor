@@ -4,6 +4,8 @@ Homework Assignment for week 1 - Code Refactor
 
 Published Web Site url: https://ks1.github.io/HW01-CodeRefactor/ 
 
+Added screenshot of published page under images folder - Horiseon-PublishedPage.mhtml 
+
 Modified code for the following user story -
 
 ## User Story
