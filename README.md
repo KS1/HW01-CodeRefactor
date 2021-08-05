@@ -2,6 +2,8 @@
 
 Homework Assignment for week 1 - Code Refactor
 
+Published Web Site url: https://ks1.github.io/HW01-CodeRefactor/ 
+
 Modified code for the following user story -
 
 ## User Story
